@@ -7,5 +7,8 @@
 </head>
 <body>
 <h2>Mahasiswa</h2>
+<ul>
+	<li> Jurusan Mesin </li>
+</ul>
 </body>
 </html>
